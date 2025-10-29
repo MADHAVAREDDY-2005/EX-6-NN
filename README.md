@@ -71,6 +71,8 @@ print(classification_rep)
 
 ### Accuracy & Training Loss:
 <img width="737" height="546" alt="image" src="https://github.com/user-attachments/assets/8cb301e8-17a0-4ee4-8c2e-9f2f2b94dbfd" />
+
+
 ### Confusion matrix & Classification report:
 <img width="564" height="312" alt="image" src="https://github.com/user-attachments/assets/1d12d847-9bb1-42e2-9090-587c75cb61b5" />
 
